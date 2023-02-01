@@ -185,18 +185,6 @@ header .media-icons {
     opacity: 0.7;
 }
 
-.media-icons b {
-    margin: 8px 0;
-    font-size: 30px;
-    color: #2c3e50;
-    font-weight: 500;
-    opacity: 0.7;
-}
-
 .media-icons a:hover {
-    color: rgb(28, 26, 148);
-}
-
-.media-icons b:hover {
     color: rgb(28, 26, 148);
 }
